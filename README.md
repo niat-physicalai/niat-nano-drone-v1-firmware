@@ -1,5 +1,7 @@
 # NIAT Nano-Drone V1 Firmware
 
+![build](https://github.com/niat-physicalai/niat-nano-drone-v1-firmware/actions/workflows/build.yml/badge.svg)
+
 STM32F405RGT6 firmware for the NIAT Nano-Drone V1.
 
 ## Scope (October 2026)
