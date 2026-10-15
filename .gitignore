@@ -1,0 +1,10 @@
+build*/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+.idea/
+__pycache__/
+*.log

@@ -1,0 +1,4 @@
+# docs\architecture
+
+Purpose: TODO
+
