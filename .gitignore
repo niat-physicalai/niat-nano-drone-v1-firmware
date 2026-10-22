@@ -8,3 +8,7 @@ build*/
 .idea/
 __pycache__/
 *.log
+# STM32CubeIDE generated files
+**/Debug/
+**/Release/
+**/.settings/
